@@ -27,3 +27,6 @@ function preserveDecimal(n){
   return parseFloat('2.222')
   }
 
+function preserveDecimal(isNaN){
+  return isNaN(note,10)
+}
