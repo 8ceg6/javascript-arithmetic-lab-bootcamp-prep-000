@@ -28,5 +28,5 @@ function preserveDecimal(n){
   }
 
 function preserveDecimal(isNaN){
-  return isNaN(note,10)
+  return parseFloat(isNaN,10)
 }
